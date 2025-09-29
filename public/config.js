@@ -16,7 +16,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_NAME": "Whiter",
   "VITE_APP_DESCRIPTION": "fully compliant crypto exchange. perps done white",
   "VITE_HAS_PRIMARY_LOGO": "true",
-  "VITE_HAS_SECONDARY_LOGO": "false",
+  "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Rewards",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_CAMPAIGNS": "false",
