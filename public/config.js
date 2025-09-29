@@ -23,7 +23,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "https://x.com/Whiter_exc",
-  "VITE_SEO_SITE_NAME": "Whiter Exchange",
+  "VITE_SEO_SITE_NAME": "Whiter",
   "VITE_SEO_SITE_DESCRIPTION": "fully compliant crypto exchange. perps done white",
   "VITE_SEO_SITE_URL": "https://whiter.app",
   "VITE_SEO_SITE_LANGUAGE": "en",
